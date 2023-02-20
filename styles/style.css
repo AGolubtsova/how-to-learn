@@ -75,8 +75,9 @@
   bottom: 0;
   width: 765px;
   height: 608px;
-  background-size: contain;
   z-index: 1;
+  object-fit: contain;
+  object-position: right bottom;
 }
 
 .header__square-pic {
@@ -341,6 +342,7 @@
   line-height: 25px;
   font-size: 18px;
   font-weight: normal;
+  margin: 0;
 }
 
 .footer__column_content_info {
