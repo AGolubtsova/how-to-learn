@@ -2,5 +2,5 @@
     width: 515px;
     height: 316px;
     overflow: clip;
-    overflow-clip-margin: content;
+    overflow-clip-margin: content-box;
 }
