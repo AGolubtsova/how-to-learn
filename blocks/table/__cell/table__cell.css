@@ -1,0 +1,9 @@
+.table__cell {
+    width: 250px;
+    margin-top: 60px;
+  }
+
+  /* убираю отступ у первых 4-х блоков*/
+.table__cell:nth-child(-n + 4) {
+    margin-top: 0;
+  }

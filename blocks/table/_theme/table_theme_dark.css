@@ -1,0 +1,7 @@
+.table_theme_dark {
+    color: white;
+    z-index: 1;
+    margin: 0 auto 0 auto;
+    padding-top: 80px;
+    position: relative;
+  }
